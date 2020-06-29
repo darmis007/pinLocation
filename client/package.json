@@ -2,6 +2,10 @@
   "name": "GeoPinner",
   "version": "0.1.0",
   "private": true,
+  "engines":{
+    "npm":"6.14.4",
+    "node":"12.16.2"
+  },
   "dependencies": {
     "@material-ui/core": "^3.9.1",
     "@material-ui/icons": "^3.0.2",
